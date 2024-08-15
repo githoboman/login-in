@@ -90,11 +90,12 @@ body {
   padding: 10px;
 }
 h1{
-  font-size: xx-large;
+  font-size: x-large;
   color: white;
   text-align: center;
   text-transform: capitalize;
   font-weight: 700;
+  
 }
 .shadin{
   display: flex;

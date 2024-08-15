@@ -88,6 +88,9 @@ body {
 .position{
   height: 80vh;
   padding: 10px;
+  display: grid;
+  place-items: center;
+  width: 100%;
 }
 h1{
   font-size: x-large;
